@@ -1,3 +1,5 @@
+# Apresentação
+
 Chamo-me Vasco, tenho 21 anos e sou estudante de programação focado em **Python** e desenvolvimento de software, a construir o meu portfólio com projetos práticos.
 
 ### 🚀 O que estou a fazer atualmente
@@ -6,7 +8,7 @@ Chamo-me Vasco, tenho 21 anos e sou estudante de programação focado em **Pytho
 * 🎯 Próximo objetivo: criar projetos completos aplicando POO em Python.
 
 ### 🛠️ Ferramentas e Tecnologias
-![Python](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
+[Python](https://shields.io)
+[Git](https://shields.io)
+[GitHub](https://shields.io)
+[VS Code](https://shields.io)
